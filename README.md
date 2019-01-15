@@ -4,5 +4,5 @@
 mysql中数据库名为appinfo
 前端使用了android23和夜神模拟器。
 # appinfo.sql
-appinfo.sql是整个项目的数据库目录，只需要使用mysqldump导入进mysql数据库中即可。
+appinfo.sql是整个项目的数据库目录，只需要使用source命令导入进mysql数据库中即可。
 使用的时候源码中的地址换为相应的数据库地址即可。
